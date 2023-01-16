@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DVTA</RootNamespace>
     <AssemblyName>DVTA</AssemblyName>
-    <TargetFrameworkVersion><v4 class="6 2"></v4></TargetFrameworkVersion>
+    <TargetFrameworkVersion></TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
